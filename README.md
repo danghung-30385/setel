@@ -6,6 +6,6 @@
 
 # Need improvements:
 - Base Page, Base Test
-- Data repository (control data from external file)
-- Object repository (control object from external file)
+- Data repository (manage data from external file)
+- Object repository (manage object from external file)
 - Page transition (ex: commonScenario)
